@@ -1,3 +1,7 @@
+/*
+    Editorial to Rahul's Lucky ID Number
+    Link to the que: https://www.hackerearth.com/problem/algorithm/rahuls-lucky-id-number/
+*/
 #include <bits/stdc++.h>
 using namespace std;
 using lint=long long int;
