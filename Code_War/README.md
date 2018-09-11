@@ -3,3 +3,8 @@
 <br /><br />
 <a href="https://www.hackerearth.com/code_war_vnit/">Link to the contest</a>
 <br/>
+The contest remains open for practice.<br />
+<p>Stats:<br/>
+Participation: 101
+<br />
+</p>
