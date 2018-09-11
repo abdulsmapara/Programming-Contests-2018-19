@@ -17,7 +17,7 @@ Given N integers in the range defined on P, find the number (after each no. is p
  Case 1:&nbsp;&nbsp; frequency of P is more than <i>maximum</i>, so update the <i>maximum</i> to P.<br/>
  Case 2:&nbsp;&nbsp; frequency of P is equal to <i>maximum</i>. Now choose the minimum among the two and update the <i>maximum</i> if required.<br />
   Note that we need not consider the case when frequency of P &lt; freqency of <i>maximum</i>.<br />
-  Print <i>maximum</i> and repeat for N inputs.<br />
+  Print <i>maximum</i> and repeat for N inputs.<br /><br />
   <b>Note</b>: To take care for negative values that P can take, we observe that P is constrained as P >= -10^4 so we store the frequency of integer P at index P + 10^4 so that the frequency of -10^4 will be stored at index 0, of (-10^4 + 1) will be stored at index 1 and so on.
 </p>
 <br />
