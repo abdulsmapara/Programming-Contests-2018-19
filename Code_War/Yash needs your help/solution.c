@@ -1,4 +1,3 @@
-//EDITORIAL
 #include <stdio.h>
 #define MAXN 10000
 int main(){
