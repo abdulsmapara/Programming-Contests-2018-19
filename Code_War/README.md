@@ -2,9 +2,5 @@
 <center>Dt.08-09th Sept, 2018</center>
 <br /><br />
 <a href="https://www.hackerearth.com/code_war_vnit/">Link to the contest</a>
-<br/>
-The contest remains open for practice.<br />
-<p>Stats:<br/>
-Participation: 101
-<br />
-</p>
+&nbsp;&nbsp;
+(The contest remains open for practice.)
