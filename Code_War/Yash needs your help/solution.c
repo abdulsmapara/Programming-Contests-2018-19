@@ -1,3 +1,7 @@
+/*
+	Editorial for que 1
+	Link to the que: https://www.hackerearth.com/problem/algorithm/yashs-bro-needs-your-help/ 
+*/
 #include <stdio.h>
 #define MAXN 10000
 int main(){
