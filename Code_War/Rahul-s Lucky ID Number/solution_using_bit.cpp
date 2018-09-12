@@ -1,6 +1,7 @@
 /*
     Editorial to Rahul's Lucky ID Number
     Link to the que: https://www.hackerearth.com/problem/algorithm/rahuls-lucky-id-number/
+    Tutorial can be found at https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
 */
 #include <bits/stdc++.h>
 using namespace std;
