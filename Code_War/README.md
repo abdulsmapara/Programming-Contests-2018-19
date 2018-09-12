@@ -3,4 +3,5 @@
 <br /><br />
 <a href="https://www.hackerearth.com/code_war_vnit/">Link to the contest</a>
 &nbsp;&nbsp;
-(The contest remains open for practice.)
+(The contest remains open for practice.)<br />
+Feel free to contribute your approach if it differs significantly.<br />
