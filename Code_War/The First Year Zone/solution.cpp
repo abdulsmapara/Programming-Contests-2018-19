@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <unordered_set>
  
-#define S scanf
 #define LLD long int
 using namespace std;
  
@@ -14,7 +13,8 @@ LLD sum(unordered_set <LLD> s)
         retval += it;
     return retval;
 }
- 
+
+// function to check if the number is palindrome or not
 bool is_pal(LLD num)
 {
     LLD rev=0,digit,n;
@@ -28,6 +28,7 @@ bool is_pal(LLD num)
     
     return (n == rev);
 }
+
 int main()
 {
     LLD t,i,j,n,d,num,root;
@@ -37,6 +38,7 @@ int main()
     {
         scanf("%ld %ld",&n,&d);
         root = sqrt(n);
+     // check the sequences only till the square root
         for(i=1;i <root;i++)
         {
             num = i*i;
@@ -49,7 +51,7 @@ int main()
                 //cout << num << endl;
                 if(is_pal(num))
                 {
-                    //printf("%lld ",num);
+                    //insert into the unordered map so that the repeated palindromes are ignored.
                     s.insert(num);
                 }
             }
